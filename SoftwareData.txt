@@ -1,10 +1,5 @@
 Software Details
 
 Software	Version
-<<<<<<< HEAD
-
 SQL Server	2010 Express Edition
 
-=======
-SQL Server	2010 Express Edition
->>>>>>> Feature/Rocky
