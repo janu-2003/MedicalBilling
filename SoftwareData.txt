@@ -1,4 +1,6 @@
 Software Details
 
 Software	Version
+
 SQL Server	2010 Express Edition
+
